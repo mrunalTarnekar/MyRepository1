@@ -27,5 +27,6 @@ public class Document {
 	@Lob
 	private byte[] thumb;
 	
+	private String name;
 
 }
